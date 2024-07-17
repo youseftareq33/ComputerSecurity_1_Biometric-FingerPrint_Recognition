@@ -44,4 +44,9 @@ Each image contains unique features that are extracted and compared to identify 
 
 - The Equal Error Rate (EER) is calculated from the ROC curve to assess the system's accuracy.
 
-  
+
+## Output:
+
+- ![](project_photo/1.jpg)
+
+- ![](project_photo/2.jpg)
